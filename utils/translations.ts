@@ -32,20 +32,20 @@ export const translations = {
       title: 'Strategic Architecture',
       items: [
         { 
-          title: "Growth & Performance (Media & Analytics)", 
-          description: "Scale revenue with intelligent investment. Advanced Paid Media management (Meta/Google Ads) purely ROI-oriented. I analyze real-time data to optimize every cent of your budget, ensuring your ad spend translates into tangible growth and measurable sales." 
-        },
-        { 
-          title: "Automation & Retention (Inbound)", 
-          description: "Convert cold traffic into recurring customers. Systematize your sales and loyalty. I implement CRMs and automated Email Marketing flows that nurture leads while you sleep, increasing Lifetime Value (LTV) through personalized communication." 
-        },
-        { 
           title: "Social Media & Branding", 
           description: "Brand authority that generates trust and sales. More than just posting, I build brand ecosystems. I align your visual identity and narrative with strategic content management, creating active communities and solid positioning that differentiates you from the competition." 
         },
         { 
+          title: "Growth & Performance (Media & Analytics)", 
+          description: "Scale revenue with intelligent investment. Advanced Paid Media management (Meta/Google Ads) purely ROI-oriented. I analyze real-time data to optimize every cent of your budget, ensuring your ad spend translates into tangible growth and measurable sales." 
+        },
+        { 
           title: "Consulting & Business Strategy", 
           description: "The brain behind the digital operation. Deep diagnosis and roadmap. I design comprehensive marketing plans aligned with your financial goals, from ecosystem audits to strategic direction (QBRs), ensuring all digital tactics row toward the same commercial goal." 
+        },
+        { 
+          title: "Automation & Retention (Inbound)", 
+          description: "Convert cold traffic into recurring customers. Systematize your sales and loyalty. I implement CRMs and automated Email Marketing flows that nurture leads while you sleep, increasing Lifetime Value (LTV) through personalized communication." 
         }
       ]
     },
@@ -195,7 +195,7 @@ export const translations = {
         btn: 'Start Conversation via WhatsApp',
         success: 'Redirecting to WhatsApp to discuss {subject}...'
       },
-      labels: { email: 'Direct Contact', phone: 'Quick Consult', location: 'Base' },
+      labels: { email: 'Jsebastianr9518@gmail.com', phone: 'Quick Consult', location: 'Base' },
       whatsapp: 'Quick Consult via WhatsApp',
       calendar: 'Book on Calendly'
     },
@@ -240,20 +240,20 @@ export const translations = {
       title: 'Arquitectura Estratégica',
       items: [
         { 
-          title: "Growth & Performance (Central de Medios + Analítica)", 
-          description: "Escala tu facturación con inversión inteligente. Gestión avanzada de Paid Media (Meta/Google Ads) orientada puramente al ROI. Analizo datos en tiempo real para optimizar cada centavo de tu presupuesto, garantizando que tu inversión publicitaria se traduzca en crecimiento tangible y ventas medibles." 
-        },
-        { 
-          title: "Automatización & Retención (Inbound)", 
-          description: "Convierte el tráfico frío en clientes recurrentes. Sistematización de tus ventas y fidelización. Implemento CRMs y flujos de Email Marketing automatizados que nutren a tus leads mientras duermes. Aumento el valor de vida del cliente (LTV) creando una máquina de comunicación personalizada que perdura más allá del primer clic." 
-        },
-        { 
           title: "Social Media & Branding", 
           description: "Autoridad de marca que genera confianza y ventas. Más allá de publicar posts, construyo ecosistemas de marca. Alineo tu identidad visual y narrativa con una gestión estratégica de contenidos. Creo comunidades activas y un posicionamiento sólido que te diferencia de la competencia, facilitando la decisión de compra de tu audiencia." 
         },
         { 
+          title: "Growth & Performance (Central de Medios + Analítica)", 
+          description: "Escala tu facturación con inversión inteligente. Gestión avanzada de Paid Media (Meta/Google Ads) orientada puramente al ROI. Analizo datos en tiempo real para optimizar cada centavo de tu presupuesto, garantizando que tu inversión publicitaria se traduzca en crecimiento tangible y ventas medibles." 
+        },
+        { 
           title: "Consultoría & Estrategia de Negocio", 
           description: "El cerebro detrás de la operación digital. Diagnóstico profundo y hoja de ruta. No ejecuto a ciegas; diseño planes de marketing integrales alineados con tus objetivos financieros. Desde auditorías de ecosistema hasta la dirección estratégica (QBRs), aseguro que todas las tácticas digitales remen hacia la misma meta comercial." 
+        },
+        { 
+          title: "Automatización & Retención (Inbound)", 
+          description: "Convierte el tráfico frío en clientes recurrentes. Sistematización de tus ventas y fidelización. Implemento CRMs y flujos de Email Marketing automatizados que nutren a tus leads mientras duermes. Aumento el valor de vida del cliente (LTV) creando una máquina de comunicación personalizada que perdura más allá del primer clic." 
         }
       ]
     },
@@ -403,7 +403,7 @@ export const translations = {
         btn: 'Iniciar Conversación por WhatsApp',
         success: 'Redirigiendo a WhatsApp para discutir {subject}...'
       },
-      labels: { email: 'Contacto Directo', phone: 'Consulta Rápida', location: 'Base' },
+      labels: { email: 'Jsebastianr9518@gmail.com', phone: 'Consulta Rápida', location: 'Base' },
       whatsapp: 'Consulta rápida por WhatsApp',
       calendar: 'Agendar en Calendly'
     },
