@@ -1,5 +1,5 @@
 import React from 'react';
-import { TrendingUp, Users, Briefcase } from 'lucide-react';
+import { TrendingUp, RefreshCw, BarChart3, Brain } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import ScrollReveal from './ScrollReveal';
 
@@ -8,8 +8,9 @@ const Services: React.FC = () => {
   
   const icons = [
     <TrendingUp className="w-8 h-8" />,
-    <Users className="w-8 h-8" />,
-    <Briefcase className="w-8 h-8" />
+    <RefreshCw className="w-8 h-8" />,
+    <BarChart3 className="w-8 h-8" />,
+    <Brain className="w-8 h-8" />
   ];
 
   return (
@@ -24,7 +25,7 @@ const Services: React.FC = () => {
           </ScrollReveal>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {t.services.items.map((service, index) => (
             <ScrollReveal 
               key={index} 
@@ -34,7 +35,7 @@ const Services: React.FC = () => {
               duration={800}
             >
               <div 
-                className="bg-jsr-card p-10 border border-slate-800 hover:border-jsr-accent transition-all duration-300 group rounded-xl relative overflow-hidden shadow-lg shadow-black/20 h-full"
+                className="bg-jsr-card p-10 border border-slate-800 hover:border-jsr-accent transition-all duration-300 group rounded-xl relative overflow-hidden shadow-lg shadow-black/20 h-full flex flex-col"
               >
                 <div className="absolute top-0 right-0 p-4 opacity-5 font-heading font-bold text-6xl text-white group-hover:text-jsr-accent transition-colors">
                   0{index + 1}
@@ -44,10 +45,10 @@ const Services: React.FC = () => {
                   {icons[index]}
                 </div>
                 
-                <h3 className="text-2xl font-bold text-white mb-4 group-hover:translate-x-1 transition-transform duration-300">
+                <h3 className="text-xl font-bold text-white mb-4 group-hover:translate-x-1 transition-transform duration-300">
                   {service.title}
                 </h3>
-                <p className="text-jsr-gray leading-relaxed text-base">
+                <p className="text-jsr-gray leading-relaxed text-sm flex-grow">
                   {service.description}
                 </p>
                 

@@ -32,16 +32,20 @@ export const translations = {
       title: 'Strategic Architecture',
       items: [
         { 
-          title: "Growth & Performance", 
-          description: "Not just 'ads'. Advanced budget management on Meta & Google Ads focused on ROAS and CAC reduction. Converting complexity into profitable acquisition channels." 
+          title: "Growth & Performance (Media & Analytics)", 
+          description: "Scale revenue with intelligent investment. Advanced Paid Media management (Meta/Google Ads) purely ROI-oriented. I analyze real-time data to optimize every cent of your budget, ensuring your ad spend translates into tangible growth and measurable sales." 
         },
         { 
-          title: "Strategy & Retention", 
-          description: "Turning traffic into loyal LTV. Ecosystem automation, CRM integration, and brand building that endures beyond the click." 
+          title: "Automation & Retention (Inbound)", 
+          description: "Convert cold traffic into recurring customers. Systematize your sales and loyalty. I implement CRMs and automated Email Marketing flows that nurture leads while you sleep, increasing Lifetime Value (LTV) through personalized communication." 
         },
         { 
-          title: "Business Consulting", 
-          description: "Deep diagnosis of your digital ecosystem. I don't execute blindly; I align tactical implementation with your financial objectives (QBRs, Audits)." 
+          title: "Social Media & Branding", 
+          description: "Brand authority that generates trust and sales. More than just posting, I build brand ecosystems. I align your visual identity and narrative with strategic content management, creating active communities and solid positioning that differentiates you from the competition." 
+        },
+        { 
+          title: "Consulting & Business Strategy", 
+          description: "The brain behind the digital operation. Deep diagnosis and roadmap. I design comprehensive marketing plans aligned with your financial goals, from ecosystem audits to strategic direction (QBRs), ensuring all digital tactics row toward the same commercial goal." 
         }
       ]
     },
@@ -236,16 +240,20 @@ export const translations = {
       title: 'Arquitectura Estratégica',
       items: [
         { 
-          title: "Growth & Performance", 
-          description: "Gestión avanzada de presupuesto (Meta/Google). En campañas de lanzamientos de Prime Video gestioné más de 1.000 Millones. Convierto presupuesto en resultados." 
+          title: "Growth & Performance (Central de Medios + Analítica)", 
+          description: "Escala tu facturación con inversión inteligente. Gestión avanzada de Paid Media (Meta/Google Ads) orientada puramente al ROI. Analizo datos en tiempo real para optimizar cada centavo de tu presupuesto, garantizando que tu inversión publicitaria se traduzca en crecimiento tangible y ventas medibles." 
         },
         { 
-          title: "Estrategia & Retención", 
-          description: "Convertir tráfico en clientes leales. Automatización de correos, CRM y construcción de marca que perdura más allá del clic." 
+          title: "Automatización & Retención (Inbound)", 
+          description: "Convierte el tráfico frío en clientes recurrentes. Sistematización de tus ventas y fidelización. Implemento CRMs y flujos de Email Marketing automatizados que nutren a tus leads mientras duermes. Aumento el valor de vida del cliente (LTV) creando una máquina de comunicación personalizada que perdura más allá del primer clic." 
         },
         { 
-          title: "Consultoría de Negocio", 
-          description: "Diagnóstico profundo de tu ecosistema digital. No ejecuto a ciegas; alineo la táctica con tus objetivos financieros (Auditorías, QBRs)." 
+          title: "Social Media & Branding", 
+          description: "Autoridad de marca que genera confianza y ventas. Más allá de publicar posts, construyo ecosistemas de marca. Alineo tu identidad visual y narrativa con una gestión estratégica de contenidos. Creo comunidades activas y un posicionamiento sólido que te diferencia de la competencia, facilitando la decisión de compra de tu audiencia." 
+        },
+        { 
+          title: "Consultoría & Estrategia de Negocio", 
+          description: "El cerebro detrás de la operación digital. Diagnóstico profundo y hoja de ruta. No ejecuto a ciegas; diseño planes de marketing integrales alineados con tus objetivos financieros. Desde auditorías de ecosistema hasta la dirección estratégica (QBRs), aseguro que todas las tácticas digitales remen hacia la misma meta comercial." 
         }
       ]
     },
