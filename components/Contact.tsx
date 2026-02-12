@@ -93,7 +93,7 @@ const Contact: React.FC = () => {
               <div className="mt-auto space-y-6 border-t border-slate-800 pt-8 relative z-10">
                  <div className="flex items-center gap-3">
                     <Mail className="w-4 h-4 text-slate-500" />
-                    <span className="text-jsr-gray text-sm">contact@jsr-strategy.com</span>
+                    <span className="text-jsr-gray text-sm">Jsebastianr951882@gmail.com</span>
                  </div>
                  <div className="flex items-center gap-3">
                     <MapPin className="w-4 h-4 text-slate-500" />
