@@ -17,13 +17,10 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="flex gap-6">
-          <a href="#" target="_blank" rel="noopener noreferrer" className="text-jsr-gray hover:text-jsr-accent transition-colors hover:scale-110 transform duration-200">
+          <a href="https://www.linkedin.com/in/juan-sebastian-r-090534231?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" className="text-jsr-gray hover:text-jsr-accent transition-colors hover:scale-110 transform duration-200">
             <Linkedin className="w-5 h-5" />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer" className="text-jsr-gray hover:text-jsr-accent transition-colors hover:scale-110 transform duration-200">
-            <Twitter className="w-5 h-5" />
-          </a>
-          <a href="#" target="_blank" rel="noopener noreferrer" className="text-jsr-gray hover:text-jsr-accent transition-colors hover:scale-110 transform duration-200">
+          <a href="https://www.instagram.com/juanse.rojas.b" target="_blank" rel="noopener noreferrer" className="text-jsr-gray hover:text-jsr-accent transition-colors hover:scale-110 transform duration-200">
             <Instagram className="w-5 h-5" />
           </a>
         </div>

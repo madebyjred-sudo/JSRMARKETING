@@ -195,7 +195,7 @@ export const translations = {
         btn: 'Start Conversation via WhatsApp',
         success: 'Redirecting to WhatsApp to discuss {subject}...'
       },
-      labels: { email: 'Jsebastianr9518@gmail.com', phone: 'Quick Consult', location: 'Base' },
+      labels: { email: 'Jsebastianr951882@gmail.com', phone: 'Quick Consult', location: 'Base' },
       whatsapp: 'Quick Consult via WhatsApp',
       calendar: 'Book on Calendly'
     },
@@ -403,7 +403,7 @@ export const translations = {
         btn: 'Iniciar Conversación por WhatsApp',
         success: 'Redirigiendo a WhatsApp para discutir {subject}...'
       },
-      labels: { email: 'Jsebastianr9518@gmail.com', phone: 'Consulta Rápida', location: 'Base' },
+      labels: { email: 'Jsebastianr951882@gmail.com', phone: 'Consulta Rápida', location: 'Base' },
       whatsapp: 'Consulta rápida por WhatsApp',
       calendar: 'Agendar en Calendly'
     },
